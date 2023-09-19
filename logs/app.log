@@ -1,0 +1,31 @@
+13:42:57.733 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+13:43:06.599 WARN  [File:UserDao.java] [Func:getUser] [Line:36] [Message:email]- email
+13:43:42.510 WARN  [File:UserDao.java] [Func:getUser] [Line:36] [Message:email]- email
+13:47:56.757 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+13:48:13.419 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+13:48:21.748 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+13:52:44.971 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+13:52:57.552 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+13:53:44.397 WARN  [File:UserController.java] [Func:login] [Line:112] [Message:]- 
+13:53:44.427 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+13:57:04.902 WARN  [File:UserDao.java] [Func:getUser] [Line:36] [Message:email]- email
+14:15:05.499 WARN  [File:UserProvider.java] [Func:nicknameRule] [Line:80] [Message:false~]- false~
+14:15:16.259 WARN  [File:UserProvider.java] [Func:nicknameRule] [Line:80] [Message:false~]- false~
+14:15:33.671 WARN  [File:UserProvider.java] [Func:nicknameRule] [Line:80] [Message:false~]- false~
+14:18:29.064 WARN  [File:UserProvider.java] [Func:nicknameRule] [Line:78] [Message:true~]- true~
+14:18:29.065 WARN  [File:UserController.java] [Func:login] [Line:116] [Message:nickname - true]- nickname - true
+14:18:29.091 WARN  [File:UserDao.java] [Func:getUser] [Line:47] [Message:nickname]- nickname
+14:18:44.949 WARN  [File:UserProvider.java] [Func:nicknameRule] [Line:80] [Message:false~]- false~
+14:20:44.307 WARN  [File:UserProvider.java] [Func:nicknameRule] [Line:78] [Message:true~]- true~
+14:20:44.308 WARN  [File:UserController.java] [Func:login] [Line:116] [Message:nickname - true]- nickname - true
+14:20:44.342 WARN  [File:UserDao.java] [Func:getUser] [Line:47] [Message:nickname]- nickname
+14:24:18.972 WARN  [File:UserProvider.java] [Func:phoneRule] [Line:80] [Message:false~]- false~
+14:24:18.974 WARN  [File:UserProvider.java] [Func:nicknameRule] [Line:87] [Message:true~]- true~
+14:24:18.974 WARN  [File:UserController.java] [Func:login] [Line:114] [Message:nickname - true]- nickname - true
+14:24:19.001 WARN  [File:UserDao.java] [Func:getUser] [Line:47] [Message:nickname]- nickname
+14:24:28.627 WARN  [File:UserProvider.java] [Func:phoneRule] [Line:78] [Message:true~]- true~
+14:24:28.628 WARN  [File:UserController.java] [Func:login] [Line:110] [Message:phone - true]- phone - true
+14:24:28.629 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
+14:24:35.974 WARN  [File:UserProvider.java] [Func:phoneRule] [Line:78] [Message:true~]- true~
+14:24:35.976 WARN  [File:UserController.java] [Func:login] [Line:110] [Message:phone - true]- phone - true
+14:24:35.976 WARN  [File:UserDao.java] [Func:getUser] [Line:42] [Message:phone]- phone
